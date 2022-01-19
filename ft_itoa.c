@@ -6,7 +6,7 @@
 /*   By: iugolin <iugolin@student.21-school.ru>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/16 00:36:39 by iugolin           #+#    #+#             */
-/*   Updated: 2021/12/21 11:54:31 by iugolin          ###   ########.fr       */
+/*   Updated: 2022/01/19 14:30:27 by iugolin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -66,3 +66,4 @@ char	*ft_itoa(int n)
 	num_to_str(numstr, len, n);
 	return (numstr);
 }
+
